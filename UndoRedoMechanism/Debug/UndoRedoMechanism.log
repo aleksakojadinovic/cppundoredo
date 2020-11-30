@@ -1,4 +1,0 @@
-﻿  ActionManager.cpp
-D:\FAKS\RS\cppundoredo\UndoRedoMechanism\ActionManager.h(22,27): warning C4018: '<': signed/unsigned mismatch
-D:\FAKS\RS\cppundoredo\UndoRedoMechanism\ActionManager.cpp(21,32): warning C4018: '<': signed/unsigned mismatch
-  UndoRedoMechanism.vcxproj -> D:\FAKS\RS\cppundoredo\UndoRedoMechanism\Debug\UndoRedoMechanism.exe
