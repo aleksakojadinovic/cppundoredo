@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# VSCODE files
+UndoRedoMechanism/*.sln
+UndoRedoMechanism/*.vcxproj
+UndoRedoMechanism/*.vcxproj.filters
+UndoRedoMechanism/*.vcxproj.user
+UndoRedoMechanism/Debug/*
+UndoRedoMechanism/.vs/*

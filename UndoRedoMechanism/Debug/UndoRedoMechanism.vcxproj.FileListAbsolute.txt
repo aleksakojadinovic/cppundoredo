@@ -1,2 +1,4 @@
 D:\FAKS\RS\UndoRedoMechanism\UndoRedoMechanism\Debug\UndoRedoMechanism.exe
 D:\FAKS\RS\UndoRedoMechanism\UndoRedoMechanism\Debug\UndoRedoMechanism.pdb
+D:\FAKS\RS\cppundoredo\UndoRedoMechanism\Debug\UndoRedoMechanism.exe
+D:\FAKS\RS\cppundoredo\UndoRedoMechanism\Debug\UndoRedoMechanism.pdb
